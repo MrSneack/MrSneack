@@ -18,18 +18,18 @@
 
 ---
 
-### 👨‍💻: About Me :
+### 👨‍💻: About Me 
 
 I am a Software Developer focused on AI/ML, Python, C++ and Desktop Applications
 
 - 🧠 **AI/ML** Engineer
-- 👨‍🎓 **C++** Desktop Application Developer and C++ Developer
-- 👨‍🔬 **Python** Developer
+- ⚡ **C++** Software & Desktop Developer
+- 🐍 **Python** Developer
 - 🎮 **Unreal Engine** Specialist
 
 ---
 
-### 🛠️: Languages and Tools :
+### 🛠️: Languages and Tools 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
