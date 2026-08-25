@@ -39,3 +39,7 @@ I am a Software Developer focused on AI/ML, Python, C++ and Desktop Applications
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows 11" alt="Windows 11" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
