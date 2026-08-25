@@ -2,6 +2,8 @@
   <img src="./blackhole.gif" width="700" height="800">
 </p>
 
+---
+
 <div id="badges" align="center">
   <a href="https://x.com/MrSneack1/">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -41,5 +43,3 @@ I am a Software Developer focused on AI/ML, Python, C++ and Desktop Applications
 </div>
 
 ---
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrSneack&theme=dark&background=000000)](https://git.io/streak-stats)
