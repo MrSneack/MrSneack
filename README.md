@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  🌐 <strong>Languages</strong> : EN | RU
+</p>
+
+---
+
 ### 👨‍💻: About Me :
 
 I am a Software Developer focused on AI/ML, Python, C++ and Desktop Applications
